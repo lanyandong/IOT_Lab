@@ -25,5 +25,5 @@ IPv6/IPv4 智能网关
 
 ### 实验项目
 
-1、[ZigBee 入门开发](/ZigBee入门开发/README.md)
+1、[ZigBee 入门开发](/ZigBee入门开发)
 
